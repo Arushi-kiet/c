@@ -1,3 +1,5 @@
+//Personal diary management system
+
 # #include<stdio.h>
 
 #include<stdlib.h>
